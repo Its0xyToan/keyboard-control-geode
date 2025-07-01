@@ -1,0 +1,25 @@
+{
+	"geode": "4.6.2",
+	"gd": {
+		"win": "2.2074",
+		"mac": "2.2074"
+	},
+	"id": "oxytoan.keyboard-control",
+	"name": "KeyboardControl",
+	"version": "v1.0.0",
+	"developer": "OxyToan",
+	"description": "Control the controller with your keyboard",
+	"tags": [
+		"enhancement",
+		"interface",
+		"utility",
+		"universal"
+	],
+
+	"dependencies": {
+		"geode.custom-keybinds": {
+			"importance": "required",
+			"version": ">=v1.10.4"
+		}
+	}
+}
