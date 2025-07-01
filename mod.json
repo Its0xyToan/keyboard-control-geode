@@ -14,6 +14,14 @@
 		"utility",
 		"universal"
 	],
+	"links": {
+		"homepage": "https://github.com/Its0xyToan/keyboard-control-geode",
+		"source": "https://github.com/Its0xyToan/keyboard-control-geode"
+	},
+	"issues": {
+		"info": "To report an issue, create a github issue",
+		"url": "https://github.com/Its0xyToan/keyboard-control-geode/issues"
+	},
 
 	"dependencies": {
 		"geode.custom-keybinds": {
